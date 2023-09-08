@@ -4,7 +4,7 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/Mythili24/Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[market performance vs targets](https://github.com/Mythili24/Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
