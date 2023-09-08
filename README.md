@@ -6,7 +6,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance vs targets](https://github.com/Mythili24/Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance vs targets](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Market%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -19,9 +19,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Mythili24/Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Mythili24/Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20by%20Fiscal%20Months.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Mythili24/Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20For%20Markets.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
