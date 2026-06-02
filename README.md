@@ -1,69 +1,93 @@
-# Excel-Sales-and-Finance-Analytics
-Atliq Hardwares is a company which sells hardware items such as PC, Laptop, Mouse, Printers and many more to different customers. They manufacture and sell hardware items through different **channels** mentioned below: 
+# 📊 Excel Sales & Finance Analytics — AtliQ Hardwares
 
-**1.** **Retailers** (**brick-and-mortar customers** like Croma and Best Buy and **e-commerce customers** like Amazon and Flipkart).
+> End-to-end Sales and Finance reporting built in Excel to surface performance insights and support data-driven decisions at AtliQ Hardwares.
 
-**2.** **Direct** (Company's own store like Atliq e-store and Atliq Exclusive).
+---
 
-**3.** **Distributor** (In China and South Korea, sales to be done through distributor like Neptune due to govenment regulations).
+## 🏢 Company Background
 
-These customers in-turn sell the hardwares to end-consumer. 
+**AtliQ Hardwares** manufactures and sells hardware products — PCs, laptops, mice, printers, and more — to customers across three channels:
 
- **Problem Statement**: Create Sales and Finance Analytical reports using Excel for insights and taking data-driven decisions.
+| Channel | Examples |
+|---------|---------|
+| 🏪 **Retailers** | Brick-and-mortar (Croma, Best Buy) and e-commerce (Amazon, Flipkart) |
+| 🏬 **Direct** | AtliQ's own stores — AtliQ E-Store and AtliQ Exclusive |
+| 🚢 **Distributors** | Third-party distributors (e.g. Neptune) in regulated markets like China and South Korea |
 
-## Sales Report :
+These customers in turn sell to end consumers.
 
-- **Project objective:** 
+---
 
-    **1.** Create a _[customer performance report](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Customer%20Performance%20Report.pdf)_ 
+## 🎯 Problem Statement
 
-    **2.** Conduct a comprehensive comparison between _[market performance vs targets](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Market%20Performance%20Report.pdf)_
+Build **Sales and Finance analytical reports in Excel** that help AtliQ's leadership monitor performance, spot trends, and make confident strategic decisions.
 
-    **3.** Create a Division Level Report _[Division Level Report](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Division%20Level%20Report.pdf)_
+---
 
-    **4.** Identify Top 10 selling products _[Top 10 Products](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Top%2010%20Products.pdf)_
+## 📈 Sales Reports
 
-    **5.** Identify Top 5 and Bottom 5 products based on Quantity _[Top 5 & Bottom 5 Products](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Top%205%20%26%20Bottom%205%20Products.pdf)_
+### Reports Delivered
 
-    **6.** Identify Top 5 markets/countries _[Top 5 countries](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Top%205%20Countries%20-%202021.pdf)_
+| # | Report | Purpose |
+|---|--------|---------|
+| 1 | [Customer Performance Report](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Customer%20Performance%20Report.pdf) | Track net sales growth per customer across years |
+| 2 | [Market Performance vs Targets](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Market%20Performance%20Report.pdf) | Measure how each market performed against sales targets |
+| 3 | [Division Level Report](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Division%20Level%20Report.pdf) | Break down revenue and growth by business division |
+| 4 | [Top 10 Products](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Top%2010%20Products.pdf) | Identify the highest-growth products by net sales |
+| 5 | [Top 5 & Bottom 5 Products by Quantity](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Top%205%20%26%20Bottom%205%20Products.pdf) | Highlight volume leaders and underperformers |
+| 6 | [Top 5 Countries — 2021](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/Top%205%20Countries%20-%202021.pdf) | Surface the highest-revenue markets globally |
+| 7 | [New Products Introduced — 2021](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/New%20Products%20-%202021.pdf) | Evaluate the sales impact of newly launched products |
 
-    **7.** Identify New Products introduced _[New Products](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/New%20Products%20-%202021.pdf)_
-  
+### Why It Matters
+- **Monitor** sales activities and performance across channels and geographies
+- **Identify** patterns in customer behaviour and KPI trends
+- **Support** discount strategy, customer negotiations, and market expansion planning
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+---
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+## 💰 Finance Reports
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+### Reports Delivered
 
+| # | Report | Purpose |
+|---|--------|---------|
+| 1 | [P&L by Fiscal Year](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20by%20Fiscal%20Year.pdf) | Full-year profitability view across FY 2019–2021 |
+| 2 | [P&L by Months](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20by%20Fiscal%20Months.pdf) | Monthly granularity for in-year performance tracking |
+| 3 | [P&L by Markets](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20For%20Markets.pdf) | Country-level profit and loss breakdown |
+| 4 | [GM% by Quarter & Sub-Zone](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/GM%25%20by%20Quarters%20(sub_zone).pdf) | Gross margin trend analysis across regional sub-zones |
 
-## Finance Report :
+### Why It Matters
+- **Evaluate** financial health across time periods and markets
+- **Benchmark** performance against industry peers and prior periods
+- **Align** financial planning with strategic goals and build stakeholder confidence
 
-- **Project objective:** 
+---
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20by%20Fiscal%20Months.pdf)_ 
+## 🛠️ Technical Skills Applied
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/P%26L%20For%20Markets.pdf)_
+- **ETL Pipeline** — Extract, Transform, Load methodology for raw data processing
+- **Power Query** — Date table generation, fiscal month and quarter derivation, data shaping
+- **Power Pivot** — Data model relationships across multiple tables
+- **DAX** — Calculated columns and measures for dynamic reporting
+- **Data Modelling** — Integrating supplementary datasets into an existing model
 
-   **3.** Create Gross Margin report across sub zones for each quarter _[GM% by Quarters sub zones](https://github.com/Mythili24/Excel-Sales-and-Finance-Analytics/blob/main/Sales%20%26%20Finance%20Analytics%20Report/GM%25%20by%20Quarters%20(sub_zone).pdf)_
+## 🤝 Soft Skills Applied
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- Deep understanding of Sales and Finance reporting requirements
+- User-centric report design with stakeholder empathy
+- Systematic planning and iterative fine-tuning of report builds
+- Translating business questions into actionable analytical outputs
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+---
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+## 👤 Author
 
+**Mythili Subramanian**
+📍 Bengaluru, Karnataka, India
+🔗 [linkedin.com/in/mythili-subramanian](https://www.linkedin.com/in/mythili-subramanian)
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+---
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## 🏆 Submitted For
+
+**Codebasics Data Analytics Bootcamp** — Excel Sales & Finance Analytics
